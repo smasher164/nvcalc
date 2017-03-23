@@ -1,0 +1,13 @@
+# Ignore everything
+*
+# Whitelist subdirectories
+!*/
+# Ignore the following directories
+.idea/
+
+# Whitelist the following extensions
+!*.java
+!*.go
+!.gitignore
+!nvcalc
+
