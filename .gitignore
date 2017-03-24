@@ -2,12 +2,16 @@
 *
 # Whitelist subdirectories
 !*/
-# Ignore the following directories
-.idea/
+!/.idea/**
 
 # Whitelist the following extensions
 !*.java
 !*.go
 !.gitignore
 !nvcalc
+!*.xml
+!*.iml
 
+# Ignore the following directories
+workspace.xml
+tasks.xml
