@@ -11,7 +11,12 @@
 !nvcalc
 !*.xml
 !*.iml
+!.classpath
+!.project
 
-# Ignore the following directories
+# Ignore the following files
 workspace.xml
 tasks.xml
+
+# Ignore the following directories
+out/
