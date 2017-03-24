@@ -8,7 +8,7 @@
 !*.java
 !*.go
 !.gitignore
-!nvcalc
+!*.cmd
 !*.xml
 !*.iml
 !.classpath
